@@ -1,1 +1,7 @@
 test
+teadding a line >> new-file.txt
+
+quit
+git add new-file.txt
++1
+echo teadding a line
